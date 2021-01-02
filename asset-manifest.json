@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ioanna/static/css/main.a9f61897.chunk.css",
+    "main.css": "/ioanna/static/css/main.a1c2024f.chunk.css",
     "main.js": "/ioanna/static/js/main.91596163.chunk.js",
     "main.js.map": "/ioanna/static/js/main.91596163.chunk.js.map",
     "runtime-main.js": "/ioanna/static/js/runtime-main.3262c04b.js",
@@ -8,13 +8,13 @@
     "static/js/2.9f1d7175.chunk.js": "/ioanna/static/js/2.9f1d7175.chunk.js",
     "static/js/2.9f1d7175.chunk.js.map": "/ioanna/static/js/2.9f1d7175.chunk.js.map",
     "index.html": "/ioanna/index.html",
-    "static/css/main.a9f61897.chunk.css.map": "/ioanna/static/css/main.a9f61897.chunk.css.map",
+    "static/css/main.a1c2024f.chunk.css.map": "/ioanna/static/css/main.a1c2024f.chunk.css.map",
     "static/js/2.9f1d7175.chunk.js.LICENSE.txt": "/ioanna/static/js/2.9f1d7175.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3262c04b.js",
     "static/js/2.9f1d7175.chunk.js",
-    "static/css/main.a9f61897.chunk.css",
+    "static/css/main.a1c2024f.chunk.css",
     "static/js/main.91596163.chunk.js"
   ]
 }
